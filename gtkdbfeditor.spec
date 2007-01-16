@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 GTK DBF Editor is a program to edit DBF files. It supports simple
 editing functions.
 
-%description
+%description -l pl
 GTK DBF Editor to program do edycji plików DBF. Udostêpnia proste
 mo¿liwo¶ci edycji.
 
