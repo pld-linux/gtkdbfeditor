@@ -1,5 +1,5 @@
 Summary:	A GTK+ based DBF Editor
-Summary(pl):	Oparty na GTK+ edytor DBF
+Summary(pl.UTF-8):   Oparty na GTK+ edytor DBF
 Name:		gtkdbfeditor
 Version:	0.2.0
 Release:	1
@@ -17,9 +17,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 GTK DBF Editor is a program to edit DBF files. It supports simple
 editing functions.
 
-%description -l pl
-GTK DBF Editor to program do edycji plików DBF. Udostêpnia proste
-mo¿liwo¶ci edycji.
+%description -l pl.UTF-8
+GTK DBF Editor to program do edycji plikÃ³w DBF. UdostÄ™pnia proste
+moÅ¼liwoÅ›ci edycji.
 
 %prep
 %setup -q
