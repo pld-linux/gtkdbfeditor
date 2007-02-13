@@ -1,5 +1,5 @@
 Summary:	A GTK+ based DBF Editor
-Summary(pl.UTF-8):   Oparty na GTK+ edytor DBF
+Summary(pl.UTF-8):	Oparty na GTK+ edytor DBF
 Name:		gtkdbfeditor
 Version:	0.2.0
 Release:	1
